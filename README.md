@@ -6,7 +6,7 @@
 
 ## 👩‍💻 About Me
 
-Hello! I'm **Haneen Eyad Habash**, a **Computer Engineering student** at *An-Najah National University* and an aspiring **Full-Stack & Flutter Developer** 🌸  
+Hello! I'm **Haneen iyad Habash**, a **Computer Engineering student** at *An-Najah National University* and an aspiring **Full-Stack & Flutter Developer** 🌸  
 I'm passionate about **technology, sustainability, and innovation**, and I love creating meaningful digital solutions that make life easier.  
 Currently, I’m a **Trainee at Udacity** and the **President of the IEEE Black Hole Community**, where I lead scientific research initiatives and manage projects that translate knowledge into impact 💡  
 

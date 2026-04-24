@@ -74,7 +74,7 @@ In addition, I’m a **Trainee at Udacity** and the **President of IEEE Black Ho
 
 ## 🚀 Projects  
 
-### 🔹 Sporty Auth App (Flutter)  
+### 🔹 Weallth Auth App (Flutter)  
 - Modern authentication system (Sign In / Sign Up)  
 - Smooth animations (Hero, AnimatedContainer)  
 - Clean UI with sporty design  
@@ -88,7 +88,7 @@ In addition, I’m a **Trainee at Udacity** and the **President of IEEE Black Ho
 - Structured system for trainers and users  
 
 ### 🔹 Startup Project (Founder & CEO)  
-- Mobile app for selling **new & used car parts**  
+- Mobile app for sell and buy **second hand item **  
 - Focus on usability, affordability, and real-market needs  
 
 ---

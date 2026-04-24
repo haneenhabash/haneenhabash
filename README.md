@@ -1,98 +1,144 @@
-# 💫 Haneen Habash — Computer Engineer & FullStack Developer
+# 💫 Haneen Habash — Full Stack Developer | Computer Engineer  
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" alt="coding animation">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="260" alt="coding animation">
 </p>
-
-## 👩‍💻 About Me
-
-Hello! I'm **Haneen iyad Habash**, a **Computer Engineering student** at *An-Najah National University* and an aspiring **Full-Stack & Flutter Developer** 🌸  
-I'm passionate about **technology, sustainability, and innovation**, and I love creating meaningful digital solutions that make life easier.  
-Currently, I’m a **Trainee at Udacity** and the **President of the IEEE Black Hole Community**, where I lead scientific research initiatives and manage projects that translate knowledge into impact 💡  
 
 ---
 
-## ⚙️ Tech Stack & Skills
+## 👩‍💻 About Me  
+Hello! I'm **Haneen Iyad Habash**, a **Computer Engineering student** at *An-Najah National University* 🎓  
 
-### 💻 Programming & Development
-- **Languages:** Dart, Java, C++, JavaScript, HTML, CSS  
-- **Frameworks & Tools:** Flutter, Node.js, React Native, MySQL, Firebase  
-- **Version Control:** Git & GitHub  
+I’m a **Full Stack Developer Intern @ Reconess**, passionate about building **scalable, user-focused applications** and solving real-world problems through technology 🌍  
 
-### 🎨 UI/UX & Design
-- Flutter UI Design (Material & Sporty style)  
-- Responsive layouts  
-- Animation widgets (Hero, AnimatedContainer, Lottie)  
-- Clean architecture & feature-based structure  
+I enjoy working across the full development cycle — from designing intuitive user interfaces to developing robust backend systems and APIs.  
 
-### 🌱 Other Professional Skills
+In addition, I’m a **Trainee at Udacity** and the **President of IEEE Black Hole Community**, where I lead initiatives focused on simplifying and translating scientific research into Arabic 💡  
+
+💬 Currently, I’m seeking **Full-Time / Remote Opportunities** in **Software Development (Full Stack / Backend / Mobile)**.
+
+---
+
+## ⚙️ Tech Stack  
+
+### 💻 Programming Languages  
+<p>
+  <img src="https://skillicons.dev/icons?i=cpp,java,js,python,dart,html,css" />
+</p>
+
+### 🚀 Frameworks & Technologies  
+<p>
+  <img src="https://skillicons.dev/icons?i=flutter,react,nodejs,flask,firebase,mysql" />
+</p>
+
+### 🧰 Tools & Platforms  
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
+</p>
+
+---
+
+## 🧠 Technical Focus  
+
+- 🎯 **Frontend Development:**  
+  Flutter (Mobile Apps), React (Web Apps), Responsive UI, Clean Architecture  
+
+- ⚙️ **Backend Development:**  
+  Node.js, Python (Flask), REST APIs, Authentication Systems  
+
+- 🗄️ **Database Management:**  
+  MySQL, Firebase (Realtime DB & Firestore)  
+
+- 🔗 **Full Stack Development:**  
+  Building complete systems from UI → API → Database  
+
+---
+
+## 🎯 Experience  
+
+### 🔹 Full Stack Developer Intern — Reconess  
+- Develop and maintain full-stack applications  
+- Integrate frontend interfaces with backend services  
+- Work with APIs, databases, and authentication systems  
+- Write clean, scalable, and maintainable code  
+- Collaborate within a development team environment  
+
+### 🔹 Trainee — Udacity  
+- Completed hands-on projects in **HTML & CSS**  
+- Applied best practices in UI design and clean code  
+- Received excellent feedback on project structure and implementation  
+
+---
+
+## 🚀 Projects  
+
+### 🔹 Sporty Auth App (Flutter)  
+- Modern authentication system (Sign In / Sign Up)  
+- Smooth animations (Hero, AnimatedContainer)  
+- Clean UI with sporty design  
+
+### 🔹 Library Management System  
+- Manage borrowing and on-site reading  
+- Organized data handling and user interaction  
+
+### 🔹 Gym Management System  
+- Membership management and fitness tracking  
+- Structured system for trainers and users  
+
+### 🔹 Startup Project (Founder & CEO)  
+- Mobile app for selling **new & used car parts**  
+- Focus on usability, affordability, and real-market needs  
+
+---
+
+## 🌱 Leadership & Volunteering  
+
+- 🧠 **President — IEEE Black Hole Community**  
+- 💼 **Volunteer — IEEE An-Najah Branch**  
+- 📸 **University Photographer — Student Affairs Department**  
+- 🎙️ Hosting a podcast simplifying scientific research for Arab youth  
+
+---
+
+## 🏆 Achievements  
+
+- ⚡ Ranked **15th out of 200** — IEEE Problem Solving Competition  
+- 🌍 Participated in hackathons and technical competitions  
+- 🎓 Active learner and contributor in tech communities  
+
+---
+
+## 💡 Professional Skills  
+
+- Problem Solving & Critical Thinking  
 - Project Management  
-- Digital Marketing & Communication  
-- Analytical Thinking  
-- Problem Solving (Ranked 15th out of 200 at IEEE Problem Solving Competition ⚡)  
-- Team Leadership (President of Black Hole – IEEE Community)  
+- Team Leadership & Collaboration  
+- Communication & Digital Marketing  
+- Adaptability & Continuous Learning  
 
 ---
 
-## 🎯 Current Projects
-
-🔹 **Sporty Auth App** — A modern Sign In / Sign Up Flutter project with elegant sporty style and animation  
-🔹 **Library Management System** — A system for public libraries (borrowing & on-site reading)  
-🔹 **Gym Management App** — A fitness tracking and membership management system  
-🔹 **Startup Founder:** Developing a mobile app for selling new & used car parts at competitive prices  
+## 🧠 Motto  
+> “Technology is not just about code — it’s about creating solutions that inspire and empower people.” 🌍💙  
 
 ---
 
-## 📚 Education
-🎓 **B.Sc. in Computer Engineering**  
-An-Najah National University, Nablus  
-*Fourth-year student (expected graduation 2025)*  
-
----
-
-## 🌐 Volunteering & Leadership
-- 🧠 **President – IEEE Black Hole Community**, focusing on Arabic scientific research  
-- 📸 **University Photographer – Student Affairs Department**  
-- 💼 **Volunteer – IEEE An-Najah Branch**  
-- 💬 Hosting an Arabic-language podcast simplifying scientific research for Arab youth  
-
----
-
-## 🧩 Featured Skills Badges
+## 📫 Connect With Me  
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Flutter-0D47A1?style=for-the-badge&logo=flutter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-F89820?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
-</p>
-
----
-##  My Tech World  
-<p align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
-
----
-## 🧠 Haneen’s Motto
-
-> “Technology is not just about code — it’s about creating solutions that inspire and empower people.” 🌍💙
-
----
-
-## 📫 Connect With Me
-
-<p align="center">
-  <a href="https://github.com/haneenhabash"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="mailto:haneenhabash08@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/haneen-habash"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/haneenhabash">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+  <a href="mailto:haneenhabash08@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+  <a href="https://www.linkedin.com/in/haneen-habash">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
 </p>
 
 ---
 
 <p align="center">
-  Made with 💙 by <b>Haneen Habash</b>  
+  Made with 💙 by <b>Haneen Habash</b>
 </p>
